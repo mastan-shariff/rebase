@@ -1,1 +1,2 @@
-this is my first com
+this is my first commit.
+git and github
